@@ -1,7 +1,7 @@
 # README - Diseño y Desarrollo Web
 
 ## Descripción
-Este repositorio contiene recursos y proyectos relacionados con el diseño y desarrollo web. Está destinado a estudiantes, profesionales y entusiastas que deseen aprender y mejorar sus habilidades en esta área. La finalidad de este repositorio es compartir los entregables con la profesora.
+Este repositorio contiene recursos y proyectos relacionados con el diseño y desarrollo web. La finalidad de este repositorio es compartir los entregables con la profesora.
 
 ## Cronograma
 | Fecha       | Actividad                        | Entregable                     |
