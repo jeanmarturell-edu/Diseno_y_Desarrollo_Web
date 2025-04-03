@@ -11,6 +11,9 @@ Este repositorio contiene recursos y proyectos relacionados con el diseño y des
 | 01/04/2023  | Frameworks (React)             | Proyecto 1                     |
 | 15/04/2023  | Diseño Responsivo               | Proyecto 2                     |
 | 01/05/2023  | Revisión final y entrega        | Entregable final               |
+| 10/05/2023  | Examen Parcial 1                | -                              |
+| 15/06/2023  | Examen Parcial 2                | -                              |
+| 01/07/2023  | Examen Final                    | -                              |
 
 ## Contenido
 - **HTML/CSS**: Estructura y estilo de páginas web.
