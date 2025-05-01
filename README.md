@@ -26,10 +26,5 @@ Este repositorio contiene recursos y proyectos relacionados con el diseño y des
 - **Responsive Design**: Técnicas para diseño adaptable a diferentes dispositivos.
 - **Herramientas**: Recursos útiles como editores de código, preprocesadores y sistemas de control de versiones.
 
-## Contribuciones
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para sugerencias o mejoras.
-
 ## Licencia
 Este proyecto está bajo la Licencia MIT. 
-
-¡Explora, aprende y contribuye!
